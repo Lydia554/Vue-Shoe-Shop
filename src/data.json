@@ -1,0 +1,531 @@
+[
+    {
+      "id": 1,
+      "slug": "yx1-men",
+      "name": "Nike Men's Pegasus 39 Bowerman",
+      "image": {
+        "mobile": "./assets/product-yx1-men/mobile/image-product.jpg",
+        "tablet": "./assets/product-yx1-men/tablet/image-product.jpg",
+        "desktop": "./assets/product-yx1-men/desktop/image-product.jpg"
+      },
+      "category": "men",
+      "categoryImage": {
+        "mobile": "./assets/product-yx1-men/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-yx1-men/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-yx1-men/desktop/image-category-page-preview.jpg"
+      },
+      "new": true,
+      "price": 599,
+      "description": "The Nike Pegasus 39 Bowerman Track Club Road Running Shoes in Black are the perfect addition to any man's running collection. These shoes are designed to keep you energized for miles with their comfortable and intuitive design.",
+      "features": "The extra padding at the tongue and collar, along with the engineered mesh upper, provide total comfort and lightweight breathability. The Flywire technology and midfoot band offer total support, while the Nike React technology and 2 Zoom Air units provide a smooth and responsive ride. The rubber outsole with a Waffle-inspired pattern provides traction and flexibility, making these shoes perfect for any terrain.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Red Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Black Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "White Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-yx1-men/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-yx1-men/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-yx1-men/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-yx1-men/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-yx1-men/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-yx1-men/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-yx1-men/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-yx1-men/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-yx1-men/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "xx99-mark-one-shoes",
+          "name": "XX99 Mark I",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-one-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-one-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-one-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx59-shoes",
+          "name": "XX59",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx59-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx59-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx59-shoes.jpg"
+          }
+        },
+        {
+          "slug": "zx9-woman",
+          "name": "ZX9 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx9-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx9-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx9-woman.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "xx59-shoes",
+      "name": "Nike Air Max Plus",
+      "image": {
+        "mobile": "./assets/product-xx59-shoes/mobile/image-product.jpg",
+        "tablet": "./assets/product-xx59-shoes/tablet/image-product.jpg",
+        "desktop": "./assets/product-xx59-shoes/desktop/image-product.jpg"
+      },
+      "category": "shoes",
+      "categoryImage": {
+        "mobile": "./assets/product-xx59-shoes/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-xx59-shoes/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-xx59-shoes/desktop/image-category-page-preview.jpg"
+      },
+      "new": false,
+      "price": 899,
+      "description": "The Air Max Plus provides first-class stability and cushioning with Tuned Air. The breathable knit upper features curved design lines, purple gradients and a patterned mudguard for comfort and distinctive style.",
+      "features": "These shoes have been created from durable, high-quality materials tough enough to take you anywhere.\n\nAchilles tendon protector - Reduces stress on the Achilles tendon by locking the shoe around the heel.\n\nInsole - Cushions and supports your foot and arch. Removable insoles can be laundered or taken out to dry between walking sessions.\n\n Upper - Holds the shoe on your foot and is usually made of leather, mesh or synthetic material. Mesh allows better ventilation and is lighter weight.\n\nGel, foam or air midsole - Helps cushion and reduce impact when your foot strikes the ground.\n\nToe box - Provides space for the toes. A roomy and round toe box helps prevent calluses.\n\nHeel collar - Cushions the ankle and ensures proper fit.\n\nOutsole - Makes contact with the ground. Grooves and treads can help maintain traction.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Purple Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Black Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "White Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-xx59-shoes/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-xx59-shoes/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-xx59-shoes/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-xx59-shoes/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-xx59-shoes/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-xx59-shoes/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-xx59-shoes/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-xx59-shoes/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-xx59-shoes/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "xx99-mark-two-shoes",
+          "name": "XX99 Mark II",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-two-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-two-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-two-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx99-mark-one-shoes",
+          "name": "XX99 Mark I",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-one-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-one-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-one-shoes.jpg"
+          }
+        },
+        {
+          "slug": "zx9-woman",
+          "name": "ZX9 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx9-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx9-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx9-woman.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "xx99-mark-one-shoes",
+      "name": "Nike Air Max Plus",
+      "image": {
+        "mobile": "./assets/product-xx99-mark-one-shoes/mobile/image-product.jpg",
+        "tablet": "./assets/product-xx99-mark-one-shoes/tablet/image-product.jpg",
+        "desktop": "./assets/product-xx99-mark-one-shoes/desktop/image-product.jpg"
+      },
+      "category": "shoes",
+      "categoryImage": {
+        "mobile": "./assets/product-xx99-mark-one-shoes/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-xx99-mark-one-shoes/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-xx99-mark-one-shoes/desktop/image-category-page-preview.jpg"
+      },
+      "new": false,
+      "price": 190,
+      "description": "Celebrate the city of 100 boroughs in this Marseille-inspired Air Max Plus. The colors reminiscent of the city's legendary football club, the breathable knit upper, the wavy design lines and the gradient color capture the essence of Marseille's street style. Legendary Air Max cushioning provides premium stability and cushioning, while subtle design details allow you to show your passion for the club and the city with every step.",
+      "features": "Achilles tendon protector - Reduces stress on the Achilles tendon by locking the shoe around the heel.\n\nInsole - Cushions and supports your foot and arch. Removable insoles can be laundered or taken out to dry between walking sessions.\n\n Upper - Holds the shoe on your foot and is usually made of leather, mesh or synthetic material. Mesh allows better ventilation and is lighter weight.\n\nGel, foam or air midsole - Helps cushion and reduce impact when your foot strikes the ground.\n\nToe box - Provides space for the toes. A roomy and round toe box helps prevent calluses.\n\nHeel collar - Cushions the ankle and ensures proper fit.\n\nOutsole - Makes contact with the ground. Grooves and treads can help maintain traction.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Blue Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Black Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "White Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-xx99-mark-one-shoes/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-xx99-mark-one-shoes/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-xx99-mark-one-shoes/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-xx99-mark-one-shoes/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-xx99-mark-one-shoes/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-xx99-mark-one-shoes/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-xx99-mark-one-shoes/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-xx99-mark-one-shoes/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-xx99-mark-one-shoes/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "xx99-mark-two-shoes",
+          "name": "XX99 Mark II",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-two-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-two-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-two-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx59-shoes",
+          "name": "XX59",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx59-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx59-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx59-shoes.jpg"
+          }
+        },
+        {
+          "slug": "zx9-woman",
+          "name": "ZX9 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx9-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx9-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx9-woman.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "xx99-mark-two-shoes",
+      "name": "Nike Air Max Plus 3",
+      "image": {
+        "mobile": "./assets/product-xx99-mark-two-shoes/mobile/image-product.jpg",
+        "tablet": "./assets/product-xx99-mark-two-shoes/tablet/image-product.jpg",
+        "desktop": "./assets/product-xx99-mark-two-shoes/desktop/image-product.jpg"
+      },
+      "category": "shoes",
+      "categoryImage": {
+        "mobile": "./assets/product-xx99-mark-two-shoes/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-xx99-mark-two-shoes/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-xx99-mark-two-shoes/desktop/image-category-page-preview.jpg"
+      },
+      "new": true,
+      "price": 190,
+      "description": "The Nike Air Max Plus III impresses with the same Tuned Air technology as its predecessors. TPU on the upper updates the look and the iconic color gradient pays homage to the original.",
+      "features": "Achilles tendon protector - Reduces stress on the Achilles tendon by locking the shoe around the heel.\n\nInsole - Cushions and supports your foot and arch. Removable insoles can be laundered or taken out to dry between walking sessions.\n\n Upper - Holds the shoe on your foot and is usually made of leather, mesh or synthetic material. Mesh allows better ventilation and is lighter weight.\n\nGel, foam or air midsole - Helps cushion and reduce impact when your foot strikes the ground.\n\nToe box - Provides space for the toes. A roomy and round toe box helps prevent calluses.\n\nHeel collar - Cushions the ankle and ensures proper fit.\n\nOutsole - Makes contact with the ground. Grooves and treads can help maintain traction.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Red Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Black Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "White Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-xx99-mark-two-shoes/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-xx99-mark-two-shoes/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-xx99-mark-two-shoes/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-xx99-mark-two-shoes/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-xx99-mark-two-shoes/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-xx99-mark-two-shoes/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-xx99-mark-two-shoes/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-xx99-mark-two-shoes/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-xx99-mark-two-shoes/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "xx99-mark-one-shoes",
+          "name": "XX99 Mark I",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-one-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-one-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-one-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx59-shoes",
+          "name": "XX59",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx59-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx59-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx59-shoes.jpg"
+          }
+        },
+        {
+          "slug": "zx9-woman",
+          "name": "ZX9 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx9-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx9-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx9-woman.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "zx7-woman",
+      "name": "Women’s On Cloud 5 ",
+      "image": {
+        "mobile": "./assets/product-zx7-woman/mobile/image-product.jpg",
+        "tablet": "./assets/product-zx7-woman/tablet/image-product.jpg",
+        "desktop": "./assets/product-zx7-woman/desktop/image-product.jpg"
+      },
+      "category": "women",
+      "categoryImage": {
+        "mobile": "./assets/product-zx7-woman/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-zx7-woman/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-zx7-woman/desktop/image-category-page-preview.jpg"
+      },
+      "new": false,
+      "price": 3500,
+      "description": "The iconic shoe re-introduced with even more comfort. Made to perform all day, every day with added stability.Cloud elements are Swiss-engineered to deliver a soft landing followed by an explosive take-off. The result? A light, responsive sensation that goes as long as you do. All day. Every day.",
+      "features": "An athletic upper arrives in a tighter fit for added security and an extra snug step-in feel. A layered mesh fabric on the tongue offers an optimum air circulation. The unique elastic function works in a net structure to provide plenty of stretch and breathability.Laces packed with stretch-power flex to allow your foot to slip in quickly, then rebound back in place to hold you securely. Fast to pull-on so you don’t waste any time.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Black Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Grey Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "White Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-zx7-woman/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-zx7-woman/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-zx7-woman/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-zx7-woman/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-zx7-woman/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-zx7-woman/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-zx7-woman/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-zx7-woman/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-zx7-woman/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "zx9-woman",
+          "name": "ZX9 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx9-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx9-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx9-woman.jpg"
+          }
+        },
+        {
+          "slug": "xx99-mark-one-shoes",
+          "name": "XX99 Mark I",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-one-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-one-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-one-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx59-shoes",
+          "name": "XX59",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx59-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx59-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx59-shoes.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "zx9-woman",
+      "name": "Nike Vaporfly 3",
+      "image": {
+        "mobile": "./assets/product-zx9-woman/mobile/image-product.jpg",
+        "tablet": "./assets/product-zx9-woman/tablet/image-product.jpg",
+        "desktop": "./assets/product-zx9-woman/desktop/image-product.jpg"
+      },
+      "category": "women",
+      "categoryImage": {
+        "mobile": "./assets/product-zx9-woman/mobile/image-category-page-preview.jpg",
+        "tablet": "./assets/product-zx9-woman/tablet/image-category-page-preview.jpg",
+        "desktop": "./assets/product-zx9-woman/desktop/image-category-page-preview.jpg"
+      },
+      "new": true,
+      "price": 4500,
+      "description": "Grab them if you can. The Nike Vaporfly 3 is designed for race day speed to cover any distance. It was designed for the chasers, the racers and the pacers who can't resist the thrill of the chase. We've redesigned the flagship Supershoe Backpack and optimized the engine underneath to help you achieve personal bests from the 10-meter dash to the marathon. This versatile road running workhorse is for anyone who sees speed as the gateway to more miles and seemingly unattainable heights, from elite runners to new runners.",
+      "features": "Achilles tendon protector - Reduces stress on the Achilles tendon by locking the shoe around the heel.\n\nInsole - Cushions and supports your foot and arch. Removable insoles can be laundered or taken out to dry between walking sessions.\n\n Upper - Holds the shoe on your foot and is usually made of leather, mesh or synthetic material. Mesh allows better ventilation and is lighter weight.\n\nGel, foam or air midsole - Helps cushion and reduce impact when your foot strikes the ground.\n\nToe box - Provides space for the toes. A roomy and round toe box helps prevent calluses.\n\nHeel collar - Cushions the ankle and ensures proper fit.\n\nOutsole - Makes contact with the ground. Grooves and treads can help maintain traction.",
+      "includes": [
+        {
+          "quantity": 1,
+          "item": "Cleaning brush"
+        },
+        {
+          "quantity": 1,
+          "item": "Red Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Pink Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Orange Laces"
+        },
+        {
+          "quantity": 1,
+          "item": "Cleansing cream"
+        }
+      ],
+      "gallery": {
+        "first": {
+          "mobile": "./assets/product-zx9-woman/mobile/image-gallery-1.jpg",
+          "tablet": "./assets/product-zx9-woman/tablet/image-gallery-1.jpg",
+          "desktop": "./assets/product-zx9-woman/desktop/image-gallery-1.jpg"
+        },
+        "second": {
+          "mobile": "./assets/product-zx9-woman/mobile/image-gallery-2.jpg",
+          "tablet": "./assets/product-zx9-woman/tablet/image-gallery-2.jpg",
+          "desktop": "./assets/product-zx9-woman/desktop/image-gallery-2.jpg"
+        },
+        "third": {
+          "mobile": "./assets/product-zx9-woman/mobile/image-gallery-3.jpg",
+          "tablet": "./assets/product-zx9-woman/tablet/image-gallery-3.jpg",
+          "desktop": "./assets/product-zx9-woman/desktop/image-gallery-3.jpg"
+        }
+      },
+      "others": [
+        {
+          "slug": "zx7-woman",
+          "name": "ZX7 woman",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-zx7-woman.jpg",
+            "tablet": "./assets/shared/tablet/image-zx7-woman.jpg",
+            "desktop": "./assets/shared/desktop/image-zx7-woman.jpg"
+          }
+        },
+        {
+          "slug": "xx99-mark-one-shoes",
+          "name": "XX99 Mark I",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx99-mark-one-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx99-mark-one-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx99-mark-one-shoes.jpg"
+          }
+        },
+        {
+          "slug": "xx59-shoes",
+          "name": "XX59",
+          "image": {
+            "mobile": "./assets/shared/mobile/image-xx59-shoes.jpg",
+            "tablet": "./assets/shared/tablet/image-xx59-shoes.jpg",
+            "desktop": "./assets/shared/desktop/image-xx59-shoes.jpg"
+          }
+        }
+      ]
+    }
+  ]
+  
