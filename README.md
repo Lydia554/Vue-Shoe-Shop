@@ -1,1 +1,1 @@
-https://lidija-jokic.com/portfolio/shoes/
+https://shoes.portfolio.lidija-jokic.com/
